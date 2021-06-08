@@ -3,9 +3,9 @@ trabalhando com middlewares - express
 
 Testes dos middlewares
 
--Should be able to find user by username in header and pass it to request.user
+Should be able to find user by username in header and pass it to request.user
 
--Should not be able to find a non existing user by username in header
+Should not be able to find a non existing user by username in header
 
 Should be able to let user create a new todo when is in free plan and have less than ten todos
 
